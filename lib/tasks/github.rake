@@ -1,5 +1,4 @@
 require 'octokit'
-include Key
 
 namespace :github do
   desc "TODO"

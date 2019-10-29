@@ -1,5 +1,4 @@
 require 'octokit'
-include Key
 
 namespace :init_data do
   desc "TODO"
